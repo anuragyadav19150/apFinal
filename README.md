@@ -10,6 +10,7 @@ AND ALSO A USE CASE DIAGRAM SO THAT WE HAVE A CLEAR PICTURE OF THE FINAL PRODUCT
 
 HOPE YOU LIKE IT!
 ![](apimages/Uml_project.png)
+![](apimages/USE_CASE.png)
 ![](apimages/1.png)
 ![](apimages/2.png)
 ![](apimages/3.png)

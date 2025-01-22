@@ -1,11 +1,9 @@
 # ApFinalProject
-WE HAVE MADE AN COLOR SWITCH GAME , 
-IT HAS MANY HIDDEN ADVENTURES WHICH MAKE IT UNIQUE. !!
-I ANURAG YADAV WITH MY PROJECT PARTNER YASH AGGARWAL HAS MADE THIS PROJECT USING JAVAFX.  !!
-WE HAVE USED MANY OOP'S FEATURES TO MAKE THIS PROJECT
+We have created a Color Switch game, featuring numerous hidden adventures that make it truly unique!
 
-WE ALSO HAVE MADE THE UML DIAGRAM SO THAT WE CAN PLAN HOW WE ARE GOING TO DO THIS PROJECT 
-AND ALSO A USE CASE DIAGRAM SO THAT WE HAVE A CLEAR PICTURE OF THE FINAL PRODUCT IN OUR MIND
+I, Anurag Yadav, along with my project partner Yash Aggarwal, developed this project using JavaFX. We have incorporated various OOP principles to enhance its functionality and structure.
+To ensure a well-planned approach, we designed a UML diagram to outline our development process and a Use Case diagram to visualize the final product clearly.
+We hope you like it! 🚀
 
 
 HOPE YOU LIKE IT!
